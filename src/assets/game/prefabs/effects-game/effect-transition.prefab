@@ -299,8 +299,8 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 0.8,
-      "y": 0.8,
+      "x": 1,
+      "y": 1,
       "z": 1
     },
     "_mobility": 0,
@@ -368,7 +368,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
-    "defaultAnimation": "transition",
+    "defaultAnimation": "show",
     "_premultipliedAlpha": false,
     "_timeScale": 1,
     "_preCacheMode": 1,
@@ -379,7 +379,7 @@
     "_debugBones": false,
     "_debugSlots": false,
     "_enableBatch": true,
-    "loop": true,
+    "loop": false,
     "_id": ""
   },
   {
