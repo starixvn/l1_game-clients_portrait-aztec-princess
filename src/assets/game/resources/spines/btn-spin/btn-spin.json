@@ -1,10 +1,11 @@
 {
-"skeleton": { "hash": "xT1+GGhU3rpRZFZGI2UBIm8ESJU", "spine": "3.8.99", "images": "./image/", "audio": "/Users/mia.lin/@OneLab/＠Project/VN_Slot_game/Mahjong_Wins/spine/btn-spin-spine" },
+"skeleton": { "hash": "twZgvsK4XOkSH6DE4yPH4L4QKVw", "spine": "3.8.99", "images": "./image/", "audio": "/Users/mia.lin/@OneLab/＠Project/VN_Slot_game/Mahjong_Wins/spine/btn-spin-spine" },
 "bones": [
 	{ "name": "root" },
-	{ "name": "circle_bg", "parent": "root", "length": 1, "color": "00ff5cff" },
-	{ "name": "hover_glow", "parent": "root", "color": "f3ff00ff" },
-	{ "name": "circle_glow", "parent": "root" }
+	{ "name": "all-null", "parent": "root", "scaleX": 0.833, "scaleY": 0.833 },
+	{ "name": "circle_bg", "parent": "all-null", "length": 1, "color": "00ff5cff" },
+	{ "name": "hover_glow", "parent": "all-null", "color": "f3ff00ff" },
+	{ "name": "circle_glow", "parent": "all-null" }
 ],
 "slots": [
 	{ "name": "circle_glow", "bone": "circle_glow" },
@@ -13,7 +14,7 @@
 	{ "name": "hover_circle", "bone": "hover_glow", "blend": "additive" },
 	{ "name": "circle_bg_starglow", "bone": "circle_bg", "blend": "additive" },
 	{ "name": "bg_stroke", "bone": "circle_bg", "blend": "additive" },
-	{ "name": "disable", "bone": "root" },
+	{ "name": "disable", "bone": "all-null" },
 	{ "name": "extra_particle/extra_particle_00", "bone": "circle_bg", "blend": "additive" }
 ],
 "skins": [
