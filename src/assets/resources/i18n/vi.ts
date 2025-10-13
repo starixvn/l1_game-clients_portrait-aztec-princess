@@ -358,7 +358,7 @@ export const languages = {
         "msg_random_multipliers": "Hệ Số Nhân ngẫu nhiên lên đến 500x",
         "multiplier": "Số Nhân",
         "multiplier_preview_odds": "Biểu tượng số nhân sẽ được áp dụng khi có kết quả thắng.",
-        "no_winning_combination": "Không Trúng",
+        "no_winning_combination": "Không Trúng Biểu Tượng Nào",
         "payout": "Trả Thưởng",
         "Payout-title": "Trả thưởng",
         "paytable": "Trả thưởng",
