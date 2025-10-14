@@ -1,22 +1,23 @@
 {
 "skeleton": {
-	"hash": "vstaWYd4PVc/bo82q3dQ/xY7FSg",
+	"hash": "fle5s8cCXAaXY8CHlPQ119qTnRg",
 	"spine": "3.8.99",
-	"x": -242,
-	"y": -223.31,
-	"width": 484,
-	"height": 450.42,
-	"images": "./effect-spine/images/",
+	"x": -317.02,
+	"y": -292.54,
+	"width": 634.04,
+	"height": 590.06,
+	"images": "./image/",
 	"audio": ""
 },
 "bones": [
 	{ "name": "root" },
-	{ "name": "money-number", "parent": "root", "y": -186.06 },
-	{ "name": "text-bigwin", "parent": "root", "y": 192.18 },
-	{ "name": "Treasure Chest", "parent": "root", "y": -55.23 },
+	{ "name": "all-null", "parent": "root", "scaleX": 1.31, "scaleY": 1.31 },
+	{ "name": "money-number", "parent": "root", "y": -243.74 },
+	{ "name": "text-bigwin", "parent": "root", "y": 251.76 },
+	{ "name": "Treasure Chest", "parent": "all-null", "y": -55.23 },
 	{ "name": "cover", "parent": "Treasure Chest", "length": 185.86, "rotation": 90.45, "x": 1.18, "y": 33.95 },
 	{ "name": "box", "parent": "Treasure Chest", "y": -116.31 },
-	{ "name": "money-number_bg", "parent": "root", "y": -186.06 }
+	{ "name": "money-number_bg", "parent": "all-null", "y": -186.06 }
 ],
 "slots": [
 	{ "name": "big_cover_inside", "bone": "cover", "attachment": "big_cover_inside" },
@@ -166,18 +167,6 @@
 			}
 		},
 		"bones": {
-			"Treasure Chest": {
-				"scale": [
-					{ "x": 0.803, "y": 0.803, "curve": 0.086, "c3": 0.306 },
-					{ "time": 0.2, "x": 1.056, "y": 1.056, "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.3333, "x": 0.958, "y": 0.958, "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.4667, "x": 1.068, "y": 1.068, "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.5667, "curve": "stepped" },
-					{ "time": 1.1, "curve": 0.25, "c3": 0.75 },
-					{ "time": 1.2, "x": 1.04, "y": 1.04, "curve": 0.25, "c3": 0.75 },
-					{ "time": 1.3333, "x": 0.803, "y": 0.803 }
-				]
-			},
 			"cover": {
 				"translate": [
 					{ "x": 0.13, "y": -16.25, "curve": 0.096, "c3": 0.306 },
@@ -199,6 +188,18 @@
 					{ "time": 1.1 },
 					{ "time": 1.2, "x": 1.07 },
 					{ "time": 1.3333, "x": 0.762 }
+				]
+			},
+			"Treasure Chest": {
+				"scale": [
+					{ "x": 0.803, "y": 0.803, "curve": 0.086, "c3": 0.306 },
+					{ "time": 0.2, "x": 1.056, "y": 1.056, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "x": 0.958, "y": 0.958, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4667, "x": 1.068, "y": 1.068, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5667, "curve": "stepped" },
+					{ "time": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.2, "x": 1.04, "y": 1.04, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "x": 0.803, "y": 0.803 }
 				]
 			}
 		},

@@ -1,223 +1,362 @@
 
 effect.webp
-size: 1967,747
+size: 2020,2016
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 big_box
   rotate: false
-  xy: 956, 533
+  xy: 644, 1417
   size: 446, 212
   orig: 475, 212
   offset: 18, 0
   index: -1
 big_coin
-  rotate: false
-  xy: 795, 38
+  rotate: true
+  xy: 1855, 1527
   size: 317, 137
   orig: 323, 143
   offset: 2, 1
   index: -1
 big_cover
   rotate: false
-  xy: 2, 30
+  xy: 0, 1262
   size: 446, 237
   orig: 475, 237
   offset: 24, 0
   index: -1
 big_cover_inside
   rotate: false
-  xy: 949, 372
+  xy: 637, 1857
   size: 349, 84
   orig: 349, 84
   offset: 0, 0
   index: -1
 big_win_number_bg
   rotate: false
-  xy: 479, 458
+  xy: 485, 1943
   size: 484, 73
   orig: 484, 73
   offset: 0, 0
   index: -1
 coin_particle/coin_particle_00
   rotate: false
-  xy: 1234, 123
+  xy: 1691, 1846
   size: 329, 95
   orig: 361, 139
   offset: 17, 15
   index: -1
 coin_particle/coin_particle_01
   rotate: false
-  xy: 1639, 321
+  xy: 0, 1652
   size: 326, 105
   orig: 361, 139
   offset: 18, 18
   index: -1
 coin_particle/coin_particle_02
   rotate: false
-  xy: 1234, 220
+  xy: 1015, 1631
   size: 325, 118
   orig: 361, 139
   offset: 19, 1
   index: -1
 coin_particle/coin_particle_03
   rotate: false
-  xy: 450, 2
+  xy: 670, 1642
   size: 343, 110
   orig: 361, 139
   offset: 0, 6
   index: -1
 coin_particle/coin_particle_04
   rotate: false
-  xy: 883, 263
+  xy: 328, 1646
   size: 340, 107
   orig: 361, 139
   offset: 3, 8
   index: -1
 coin_particle/coin_particle_05
   rotate: false
-  xy: 1300, 340
+  xy: 1516, 1740
   size: 337, 104
   orig: 361, 139
   offset: 6, 10
   index: -1
 coin_particle/coin_particle_06
   rotate: false
-  xy: 1114, 18
+  xy: 1179, 1751
   size: 335, 103
   orig: 361, 139
   offset: 8, 11
   index: -1
 coin_particle/coin_particle_07
   rotate: false
-  xy: 1451, 15
+  xy: 858, 1754
   size: 319, 101
   orig: 361, 139
   offset: 17, 11
   index: -1
 coin_particle/coin_particle_08
   rotate: false
-  xy: 1561, 220
+  xy: 188, 1759
   size: 335, 99
   orig: 361, 139
   offset: 17, 13
   index: -1
 coin_particle/coin_particle_09
   rotate: false
-  xy: 1565, 118
+  xy: 525, 1755
   size: 331, 100
   orig: 361, 139
   offset: 17, 11
   index: -1
+fs_bg
+  rotate: false
+  xy: 1386, 948
+  size: 411, 363
+  orig: 486, 450
+  offset: 36, 45
+  index: -1
+fs_frame
+  rotate: false
+  xy: 0, 726
+  size: 486, 450
+  orig: 486, 450
+  offset: 0, 0
+  index: -1
+fs_lightsweep/fs_lightsweep_00
+  rotate: true
+  xy: 0, 224
+  size: 500, 475
+  orig: 555, 514
+  offset: 22, 33
+  index: -1
+fs_lightsweep/fs_lightsweep_01
+  rotate: false
+  xy: 477, 221
+  size: 502, 475
+  orig: 555, 514
+  offset: 20, 33
+  index: -1
+fs_lightsweep/fs_lightsweep_08
+  rotate: false
+  xy: 1483, 0
+  size: 514, 473
+  orig: 555, 514
+  offset: 19, 25
+  index: -1
+fs_lightsweep/fs_lightsweep_09
+  rotate: false
+  xy: 488, 698
+  size: 501, 463
+  orig: 555, 514
+  offset: 20, 32
+  index: -1
+fs_lightsweep/fs_lightsweep_10
+  rotate: false
+  xy: 991, 480
+  size: 493, 466
+  orig: 555, 514
+  offset: 28, 33
+  index: -1
+fs_lightsweep/fs_lightsweep_11
+  rotate: false
+  xy: 1486, 475
+  size: 494, 471
+  orig: 555, 514
+  offset: 27, 33
+  index: -1
+fs_lightsweep/fs_lightsweep_12
+  rotate: false
+  xy: 981, 3
+  size: 500, 475
+  orig: 555, 514
+  offset: 22, 33
+  index: -1
 mega_box
   rotate: false
-  xy: 479, 533
+  xy: 1092, 1402
   size: 475, 212
   orig: 475, 212
   offset: 0, 0
   index: -1
 mega_coin
-  rotate: true
-  xy: 1807, 428
+  rotate: false
+  xy: 0, 1509
   size: 317, 141
   orig: 323, 143
   offset: 2, 0
   index: -1
 mega_cover
   rotate: false
-  xy: 2, 269
+  xy: 448, 1178
   size: 459, 237
   orig: 475, 237
   offset: 9, 0
   index: -1
 mega_cover_inside
   rotate: false
-  xy: 883, 177
+  xy: 988, 1857
   size: 349, 84
   orig: 349, 84
   offset: 0, 0
   index: -1
 mega_win_number_bg
   rotate: false
-  xy: 965, 458
+  xy: 971, 1943
   size: 484, 73
   orig: 484, 73
   offset: 0, 0
   index: -1
 sparkle
-  rotate: false
-  xy: 775, 211
+  rotate: true
+  xy: 102, 1973
   size: 43, 46
   orig: 50, 50
   offset: 5, 2
   index: -1
 stone_blue
   rotate: false
-  xy: 2, 8
+  xy: 33, 1996
   size: 40, 20
   orig: 40, 20
   offset: 0, 0
   index: -1
 stone_green
   rotate: false
-  xy: 795, 18
+  xy: 0, 1998
   size: 31, 18
   orig: 31, 18
   offset: 0, 0
   index: -1
 stone_red
   rotate: false
-  xy: 1225, 345
+  xy: 75, 1991
   size: 25, 25
   orig: 25, 25
   offset: 0, 0
   index: -1
 super_box
   rotate: false
-  xy: 1404, 533
+  xy: 1569, 1313
   size: 401, 212
   orig: 475, 212
   offset: 40, 0
   index: -1
 super_coin
   rotate: false
-  xy: 450, 114
+  xy: 319, 1501
   size: 323, 143
   orig: 323, 143
   offset: 0, 0
   index: -1
 super_coin_shine
   rotate: false
-  xy: 463, 259
+  xy: 1342, 1616
   size: 418, 122
   orig: 475, 143
   offset: 29, 9
   index: -1
 super_cover
   rotate: false
-  xy: 2, 508
+  xy: 909, 1163
   size: 475, 237
   orig: 475, 237
   offset: 0, 0
   index: -1
 super_cover_inside
   rotate: false
-  xy: 1451, 446
+  xy: 1339, 1856
   size: 350, 85
   orig: 350, 85
   offset: 0, 0
   index: -1
 super_feather
   rotate: false
-  xy: 1772, 4
+  xy: 0, 1763
   size: 186, 112
   orig: 186, 112
   offset: 0, 0
   index: -1
 super_win_number_bg
   rotate: false
-  xy: 463, 383
+  xy: 1457, 1943
   size: 484, 73
   orig: 484, 73
+  offset: 0, 0
+  index: -1
+text-totalwin
+  rotate: false
+  xy: 0, 1877
+  size: 287, 77
+  orig: 293, 80
+  offset: 4, 1
+  index: -1
+text_freespins
+  rotate: false
+  xy: 150, 1956
+  size: 333, 60
+  orig: 380, 90
+  offset: 24, 15
+  index: -1
+text_freespins_starglow
+  rotate: false
+  xy: 289, 1860
+  size: 346, 81
+  orig: 380, 90
+  offset: 18, 9
+  index: -1
+
+effect2.webp
+size: 2035,1026
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_lightsweep/fs_lightsweep_02
+  rotate: true
+  xy: 1054, 6
+  size: 503, 476
+  orig: 555, 514
+  offset: 19, 33
+  index: -1
+fs_lightsweep/fs_lightsweep_03
+  rotate: true
+  xy: 1555, 524
+  size: 502, 480
+  orig: 555, 514
+  offset: 19, 30
+  index: -1
+fs_lightsweep/fs_lightsweep_04
+  rotate: true
+  xy: 568, 5
+  size: 504, 484
+  orig: 555, 514
+  offset: 20, 27
+  index: -1
+fs_lightsweep/fs_lightsweep_05
+  rotate: true
+  xy: 1532, 0
+  size: 511, 494
+  orig: 555, 514
+  offset: 22, 17
+  index: -1
+fs_lightsweep/fs_lightsweep_06
+  rotate: true
+  xy: 1059, 513
+  size: 513, 494
+  orig: 555, 514
+  offset: 21, 17
+  index: -1
+fs_lightsweep/fs_lightsweep_07
+  rotate: true
+  xy: 568, 511
+  size: 515, 489
+  orig: 555, 514
+  offset: 19, 17
+  index: -1
+fs_ttw_bg
+  rotate: true
+  xy: 0, 407
+  size: 619, 566
+  orig: 619, 566
   offset: 0, 0
   index: -1

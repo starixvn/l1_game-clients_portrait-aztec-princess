@@ -1,28 +1,27 @@
 {
 "skeleton": {
-	"hash": "B1wtsGIfFsUm6OETQu5TsOafZQM",
+	"hash": "syGHXZAgep7PkVHZdxD2NXvIc9g",
 	"spine": "3.8.99",
-	"x": -277.5,
-	"y": -257,
-	"width": 555,
-	"height": 514,
+	"x": -363.53,
+	"y": -336.67,
+	"width": 727.05,
+	"height": 673.34,
 	"images": "./image/",
 	"audio": ""
 },
 "bones": [
 	{ "name": "root" },
-	{ "name": "text-congratulation", "parent": "root", "y": 136 },
-	{ "name": "text-you-won", "parent": "root", "y": 79.5 },
-	{ "name": "text-congratulation3", "parent": "text-you-won", "x": 222.6, "y": 379.48 },
-	{ "name": "number", "parent": "root", "y": -8 }
+	{ "name": "all-null", "parent": "root", "scaleX": 1.31, "scaleY": 1.31 },
+	{ "name": "text-congratulation", "parent": "root", "y": 178.16 },
+	{ "name": "text-you-won", "parent": "root", "y": 104.14 },
+	{ "name": "number", "parent": "root", "y": -10.48 }
 ],
 "slots": [
-	{ "name": "fs_bg", "bone": "root", "attachment": "fs_bg" },
-	{ "name": "fs_frame", "bone": "root", "attachment": "fs_frame" },
-	{ "name": "text_congratulations", "bone": "root" },
-	{ "name": "fs_lightsweep/fs_lightsweep_00", "bone": "root", "attachment": "fs_lightsweep/fs_lightsweep_12", "blend": "additive" },
-	{ "name": "text_freespins", "bone": "root", "attachment": "text_freespins" },
-	{ "name": "text_freespins_starglow", "bone": "root", "attachment": "text_freespins_starglow", "blend": "additive" }
+	{ "name": "fs_bg", "bone": "all-null", "attachment": "fs_bg" },
+	{ "name": "fs_frame", "bone": "all-null", "attachment": "fs_frame" },
+	{ "name": "fs_lightsweep/fs_lightsweep_00", "bone": "all-null", "attachment": "fs_lightsweep/fs_lightsweep_12", "blend": "additive" },
+	{ "name": "text_freespins", "bone": "all-null", "attachment": "text_freespins" },
+	{ "name": "text_freespins_starglow", "bone": "all-null", "attachment": "text_freespins_starglow", "blend": "additive" }
 ],
 "skins": [
 	{
