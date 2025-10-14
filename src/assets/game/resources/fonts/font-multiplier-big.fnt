@@ -12,7 +12,7 @@ char id=54 x=0 y=89 width=53 height=79 xoffset=0 yoffset=0 sy xadvance=55 page=0
 char id=55 x=192 y=0 width=51 height=79 xoffset=0 yoffset=0 sy xadvance=53 page=0 chnl=0 letter="7"
 char id=56 x=63 y=89 width=53 height=79 xoffset=0 yoffset=0 sy xadvance=55 page=0 chnl=0 letter="8"
 char id=57 x=67 y=0 width=53 height=79 xoffset=0 yoffset=0 sy xadvance=55 page=0 chnl=0 letter="9"
-char id=120 x=0 y=178 width=49 height=66 xoffset=0 yoffset=2 sy xadvance=51 page=0 chnl=0 letter="x"
+char id=120 x=0 y=178 width=49 height=66 xoffset=0 yoffset=5 sy xadvance=51 page=0 chnl=0 letter="x"
 char id=46 x=103 y=178 width=33 height=41 xoffset=0 yoffset=29 sy xadvance=35 page=0 chnl=0 letter="."
 char id=44 x=59 y=178 width=34 height=53 xoffset=0 yoffset=17 sy xadvance=36 page=0 chnl=0 letter=","
 char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 sy xadvance=20 page=0 chnl=0 letter=" "
