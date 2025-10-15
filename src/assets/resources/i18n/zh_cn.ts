@@ -85,6 +85,7 @@ export const languages = {
         "losses": "损失",
         "maintenance_time": "维护时间",
         "manual": "手动",
+        "max": "最大",
         "max_stake_hand": "手头上的最的大赌注为 %{maxBet}",
         "md5_copy": "复制",
         "md5_key": "MD5 钥匙",
@@ -258,6 +259,7 @@ export const languages = {
         "start": "开始",
         "start_auto_bet": "开始自动投注",
         "start_in": "投注时间：{time}秒",
+        "stop_auto_bet": "停止自动投注",
         "stop_on_loss": "亏损时停止",
         "stop_on_win": "赢时停止",
         "submit": "提交",
@@ -277,7 +279,7 @@ export const languages = {
         "total_bet": "总赌注",
         "total_stake": "总赌注",
         "total_stake_shorten": "总赌注",
-        "total_win": "总赢得",
+        "total_win": "总赢",
         "under_maintenance_suggest": "维护完成后请重新登录继续玩游戏。",
         "under_maintenance_time": "从 %{startTime} 到 %{endTime} (GMT+8)",
         "waggred": "Waggred",
@@ -291,7 +293,23 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "msg_rotate_to_portrait": "请将屏幕旋转为竖屏模式以进行游戏。",
+        "auto_bet_header": "自动投注指南",
+        "how_to_use_auto_bet": "如何使用自动投注",
+        "auto_bet_para_1": "通过自动投注，您可以设置自动投注的规则，直到满足您选择的条件。",
+        "auto_bet_para_2": "投注次数：自动投注的总轮数。",
+        "auto_bet_para_3": "获胜时",
+        "auto_bet_para_3_1": "重置：赢了之后返回您的初始投注。",
+        "auto_bet_para_3_2": "增加：在您获胜时，按设定的百分比提高您的投注额。",
+        "auto_bet_para_3_3": "（示例：设置 +20% → 以 10 美元开始 → 赢 → 下一个赌注 12 美元）",
+        "auto_bet_para_4": "失败时:",
+        "auto_bet_para_4_1": "Reset：在失败后返回您的起始赌注。",
+        "auto_bet_para_4_2": "增加：在您输掉时，按设定的百分比增加您的投注。",
+        "auto_bet_para_4_3": "（示例：设置 +50% → 从 10 美元开始 → 失败 → 下一个赌注 15 美元）",
+        "auto_bet_para_5": "赢时停止：当达到您的赢钱目标时停止自动投注。",
+        "auto_bet_para_6": "亏损时停止：当达到您的亏损限额时停止自动投注。",
+        "tooltip_live_stat": "实时统计"
     },
     "cascadingslot": {
         "auto_spin": "自动旋转",
@@ -303,6 +321,7 @@ export const languages = {
         "bet_level_shorten": "赌注级别",
         "bet_multiplier_x": "投注乘数20倍",
         "big_win": "大赢",
+        "btn_buy_free_spins": "購買\nFree Spins",
         "buy_free_spins": "購買 Free Spins",
         "coin_value": "硬币价值",
         "coin_value_shorten": "硬币价值",
@@ -325,7 +344,7 @@ export const languages = {
         "header_no": "号",
         "header_result_board": "结果板",
         "header_total_multiplier": "总乘数",
-        "header_total_win": "总赢得",
+        "header_total_win": "总赢",
         "header_tumble": "消除掉落",
         "header_tumble_win": "连续中奖",
         "header_win_amount": "获胜金额",
@@ -335,6 +354,8 @@ export const languages = {
         "label_on_game_icon": "级联卷轴",
         "last_free_spin": "最后一次 Free Spin",
         "mega_win": "巨级赢",
+        "msg_free_spins": "Free Spin中的递增倍数",
+        "msg_random_multipliers": "随机倍数最高可达500x",
         "multiplier": "乘数",
         "multiplier_preview_odds": "乘数奖金将适用于翻滚获胜。",
         "no_winning_combination": "没有获胜组合",
@@ -372,9 +393,7 @@ export const languages = {
         "win_tumble_msg": "恭喜！",
         "you_have_won": "你赢了",
         "you_win_free_spin": "您赢得",
-        "msg_random_multipliers": "随机倍数最高可达250x",
-        "mgs_free_spins": "Free Spin中的递增倍数",
-        "btn_buy_free_spins": "購買\nFree Spins"
+        "turbo_icon": "涡轮"
     },
     "Olympub": {
         "game_icon_name": "奥林酒馆",
@@ -453,6 +472,10 @@ export const languages = {
         "total_bet": "总投注",
         "total_win": "总奖金",
         "Unexpected_gift_code_error_message": "发生意外错误。请稍后重试。"
+    },
+    "AztecPrincess": {
+        "game_name": "阿兹特克公主",
+        "game_icon_name": "阿兹特克公主"
     }
 };
 
