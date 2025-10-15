@@ -1,146 +1,174 @@
 
 effect-multiplier.webp
-size: 1906,1990
+size: 2286,1409
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-lightning_1
-  rotate: true
-  xy: 0, 1660
+level0/level0_00
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+level0/level0_01
+  rotate: false
+  xy: 1867, 11
+  size: 188, 152
+  orig: 330, 700
+  offset: 68, 548
+  index: -1
+level0/level0_02
+  rotate: false
+  xy: 1906, 881
+  size: 330, 526
+  orig: 330, 700
+  offset: 0, 174
+  index: -1
+level0/level0_03
+  rotate: false
+  xy: 2, 707
   size: 330, 700
   orig: 330, 700
   offset: 0, 0
   index: -1
-lightning_10
-  rotate: true
-  xy: 1404, 1660
-  size: 330, 400
-  orig: 332, 402
-  offset: 1, 1
-  index: -1
-lightning_11
-  rotate: true
-  xy: 1404, 1328
-  size: 330, 400
-  orig: 332, 402
-  offset: 1, 1
-  index: -1
-lightning_12
-  rotate: true
-  xy: 1404, 996
-  size: 330, 400
-  orig: 332, 402
-  offset: 1, 1
-  index: -1
-lightning_13
-  rotate: true
-  xy: 1404, 664
-  size: 330, 400
-  orig: 332, 402
-  offset: 1, 1
-  index: -1
-lightning_14
-  rotate: true
-  xy: 702, 332
-  size: 330, 400
-  orig: 332, 402
-  offset: 1, 1
-  index: -1
-lightning_15
-  rotate: true
-  xy: 1104, 332
-  size: 330, 400
-  orig: 332, 402
-  offset: 1, 1
-  index: -1
-lightning_16
-  rotate: true
-  xy: 1506, 332
-  size: 330, 400
-  orig: 332, 402
-  offset: 1, 1
-  index: -1
-lightning_17
-  rotate: true
-  xy: 0, 0
-  size: 330, 400
-  orig: 332, 402
-  offset: 1, 1
-  index: -1
-lightning_18
-  rotate: true
-  xy: 402, 0
-  size: 330, 400
-  orig: 332, 402
-  offset: 1, 1
-  index: -1
-lightning_19
-  rotate: true
-  xy: 804, 0
-  size: 330, 400
-  orig: 332, 402
-  offset: 1, 1
-  index: -1
-lightning_2
-  rotate: true
-  xy: 702, 1660
+level0/level0_04
+  rotate: false
+  xy: 2, 5
   size: 330, 700
   orig: 330, 700
   offset: 0, 0
   index: -1
-lightning_20
-  rotate: true
-  xy: 1206, 0
-  size: 330, 400
-  orig: 332, 402
-  offset: 1, 1
-  index: -1
-lightning_3
-  rotate: true
-  xy: 0, 1328
+level0/level0_05
+  rotate: false
+  xy: 334, 707
   size: 330, 700
   orig: 330, 700
   offset: 0, 0
   index: -1
-lightning_4
-  rotate: true
-  xy: 702, 1328
+level0/level0_06
+  rotate: false
+  xy: 334, 5
   size: 330, 700
   orig: 330, 700
   offset: 0, 0
   index: -1
-lightning_5
-  rotate: true
-  xy: 0, 996
+level0/level0_07
+  rotate: false
+  xy: 666, 707
   size: 330, 700
   orig: 330, 700
   offset: 0, 0
   index: -1
-lightning_6
-  rotate: true
-  xy: 702, 996
-  size: 330, 700
+level0/level0_08
+  rotate: false
+  xy: 666, 7
+  size: 207, 698
   orig: 330, 700
-  offset: 0, 0
+  offset: 56, 2
   index: -1
-lightning_7
-  rotate: true
-  xy: 0, 664
-  size: 330, 700
+level0/level0_09
+  rotate: false
+  xy: 1160, 715
+  size: 165, 692
   orig: 330, 700
-  offset: 0, 0
+  offset: 67, 2
   index: -1
-lightning_8
-  rotate: true
-  xy: 702, 664
-  size: 330, 700
+level0/level0_10
+  rotate: false
+  xy: 998, 714
+  size: 160, 693
   orig: 330, 700
-  offset: 0, 0
+  offset: 70, 3
   index: -1
-lightning_9
-  rotate: true
-  xy: 0, 332
-  size: 330, 700
+level0/level0_11
+  rotate: false
+  xy: 875, 11
+  size: 205, 694
   orig: 330, 700
-  offset: 0, 0
+  offset: 76, 4
+  index: -1
+level0/level0_12
+  rotate: false
+  xy: 1278, 22
+  size: 200, 691
+  orig: 330, 700
+  offset: 80, 9
+  index: -1
+level0/level0_13
+  rotate: false
+  xy: 1518, 721
+  size: 180, 686
+  orig: 330, 700
+  offset: 70, 2
+  index: -1
+level0/level0_14
+  rotate: false
+  xy: 1480, 28
+  size: 183, 687
+  orig: 330, 700
+  offset: 70, 2
+  index: -1
+level0/level0_15
+  rotate: false
+  xy: 1327, 717
+  size: 189, 690
+  orig: 330, 700
+  offset: 68, 0
+  index: -1
+level0/level0_16
+  rotate: false
+  xy: 1082, 20
+  size: 194, 692
+  orig: 330, 700
+  offset: 63, 0
+  index: -1
+level0/level0_17
+  rotate: false
+  xy: 1665, 37
+  size: 200, 682
+  orig: 330, 700
+  offset: 60, 0
+  index: -1
+level0/level0_18
+  rotate: false
+  xy: 1700, 737
+  size: 204, 670
+  orig: 330, 700
+  offset: 58, 0
+  index: -1
+level0/level0_19
+  rotate: false
+  xy: 1867, 165
+  size: 207, 570
+  orig: 330, 700
+  offset: 57, 0
+  index: -1
+level0/level0_20
+  rotate: false
+  xy: 2076, 503
+  size: 208, 376
+  orig: 330, 700
+  offset: 56, 0
+  index: -1
+level0/level0_21
+  rotate: false
+  xy: 2076, 328
+  size: 202, 173
+  orig: 330, 700
+  offset: 59, 0
+  index: -1
+level0/level0_22
+  rotate: false
+  xy: 1906, 812
+  size: 71, 67
+  orig: 330, 700
+  offset: 106, 30
+  index: -1
+level0/level0_23
+  rotate: false
+  xy: 1906, 760
+  size: 65, 50
+  orig: 330, 700
+  offset: 110, 31
   index: -1
