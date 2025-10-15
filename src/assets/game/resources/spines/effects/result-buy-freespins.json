@@ -1,20 +1,11 @@
 {
-"skeleton": {
-	"hash": "YSFQUtCfzcPhbMpJf/Lu62YlYIQ",
-	"spine": "3.8.99",
-	"x": -356.94,
-	"y": -330.57,
-	"width": 713.89,
-	"height": 661.15,
-	"images": "./image/",
-	"audio": "/Users/mia.lin/@OneLab/＠Project/VN_Slot_game/04-AztecWarriorPrincess_Portrait_Mode/spine/effect"
-},
+"skeleton": { "hash": "zWr7chbahSvoYTxlUgQzE/mDBTY", "spine": "3.8.99", "x": -356.95, "y": -330.58, "width": 713.9, "height": 661.16 },
 "bones": [
 	{ "name": "root" },
 	{ "name": "frame", "parent": "root", "scaleX": 1.2863, "scaleY": 1.2863 },
-	{ "name": "number", "parent": "root", "y": -84.45 },
+	{ "name": "text-number", "parent": "root", "y": -84.45 },
 	{ "name": "text-free-spins", "parent": "root", "y": 116.29, "scaleX": 1.2863, "scaleY": 1.2863 },
-	{ "name": "text-total-win", "parent": "root", "y": 35.81 }
+	{ "name": "text-totalwin", "parent": "root", "y": 35.81 }
 ],
 "slots": [
 	{ "name": "fs_ttw_bg", "bone": "root", "attachment": "fs_ttw_bg" },
@@ -22,7 +13,7 @@
 	{ "name": "fs_lightsweep/fs_lightsweep_00", "bone": "frame", "attachment": "fs_lightsweep/fs_lightsweep_00", "blend": "additive" },
 	{ "name": "text_freespins", "bone": "text-free-spins", "attachment": "text_freespins" },
 	{ "name": "text_freespins_starglow", "bone": "text-free-spins", "attachment": "text_freespins_starglow", "blend": "additive" },
-	{ "name": "text-totalwin", "bone": "root", "attachment": "text-totalwin" }
+	{ "name": "text-totalwin", "bone": "text-totalwin" }
 ],
 "skins": [
 	{
@@ -50,7 +41,7 @@
 				"fs_ttw_bg": { "width": 619, "height": 566 }
 			},
 			"text-totalwin": {
-				"text-totalwin": { "y": 37.32, "width": 293, "height": 80 }
+				"text-totalwin": { "y": 1.51, "width": 293, "height": 80 }
 			},
 			"text_freespins": {
 				"text_freespins": { "width": 380, "height": 90 }
