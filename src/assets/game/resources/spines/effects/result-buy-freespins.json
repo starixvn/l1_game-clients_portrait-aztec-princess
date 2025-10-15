@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "EN3R3A+pt/ZulUYke+Hv8ZYJsqY",
+	"hash": "YSFQUtCfzcPhbMpJf/Lu62YlYIQ",
 	"spine": "3.8.99",
 	"x": -356.94,
 	"y": -330.57,
@@ -13,7 +13,8 @@
 	{ "name": "root" },
 	{ "name": "frame", "parent": "root", "scaleX": 1.2863, "scaleY": 1.2863 },
 	{ "name": "number", "parent": "root", "y": -84.45 },
-	{ "name": "text-free-spins", "parent": "root", "y": 116.29, "scaleX": 1.2863, "scaleY": 1.2863 }
+	{ "name": "text-free-spins", "parent": "root", "y": 116.29, "scaleX": 1.2863, "scaleY": 1.2863 },
+	{ "name": "text-total-win", "parent": "root", "y": 35.81 }
 ],
 "slots": [
 	{ "name": "fs_ttw_bg", "bone": "root", "attachment": "fs_ttw_bg" },
